@@ -25,6 +25,3 @@ I am a student majoring in Information Technology at the State Polytechnic of Ma
 
 ## Most Used Languages by Me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdyhape&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## Let's Play Snake!
-![Snake animation](https://github.com/ferdyhape/ferdyhape/blob/output/github-contribution-grid-snake.svg)
